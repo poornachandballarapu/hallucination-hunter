@@ -13,3 +13,9 @@ This Python tool acts as a "Jurisdiction Firewall." It scans contract drafts and
 
 ### How It Works
 The script uses Regex pattern matching against a curated legal dictionary to audit text in < 0.1 seconds, reducing the risk of "Jurisdiction Error" in high-volume legal operations.
+
+### 👨‍💻 About the Developer
+Built by **Poorna Chand Ballarapu**, a dual-degree student bridging the gap between Law and Technology.
+* **Law:** 3rd Year B.A. LL.B (Hons) at **NALSAR University of Law**.
+* **Tech:** B.S. in Data Science & Applications at **IIT Madras**.
+* **Focus:** Leveraging Computational Law and NLP to automate complex legal workflows in M&A and Finance.
